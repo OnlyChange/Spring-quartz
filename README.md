@@ -1,7 +1,5 @@
-quartz-spring_demo
+Spring-quartz
 ==================
-
-quartz spring结合
 
 项目构建:Maven
 
